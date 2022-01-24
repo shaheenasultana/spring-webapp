@@ -70,5 +70,4 @@
 		</plugins>
 		<finalName>${project.name}test</finalName>
 	</build>
-
 </project>
